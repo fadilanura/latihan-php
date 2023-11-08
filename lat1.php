@@ -1,5 +1,5 @@
 <?php
-// komentar satu baris
-
-echo "hello world"
+// komentar satu baris.
+echo "hello world";
+// variable
 ?>
